@@ -3,11 +3,6 @@
 <h4 align="center">A full stack software engineer with a strong business acumen, able to bridge technical capabilities and business objectives. Skilled in agile methodologies, delivering high-quality software on schedule and within budget, and able to drive growth and results for any organization.
 </h4>
 
-- Full-stack Developer
-- Personal website [link](https://www.0xabdulkhalid.ml)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ## 👉 Programming languages
@@ -49,17 +44,6 @@
 </div>
 
 <br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
 <ul>
 
