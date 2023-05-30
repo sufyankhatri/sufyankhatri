@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Sufyan Khatri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">A full stack software engineer with a strong business acumen, able to bridge technical capabilities and business objectives. Skilled in agile methodologies, delivering high-quality software on schedule and within budget, and able to drive growth and results for any organization.
+<h4 align="center">Passionate full stack developer with expertise in building scalable web applications and crafting seamless user experiences.
 </h4>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
